@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Rupam.png"
+  <img src="./Profile.png"
        width="100%"
        alt="Rupam Ghosh GitHub Banner"/>
 </p>
