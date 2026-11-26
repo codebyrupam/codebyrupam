@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="./Rupam.png"
+       width="100%"
+       alt="Rupam Ghosh GitHub Banner"/>
+</p>
+
+---
+
 # 👋 Hi, I'm Rupam Ghosh
 
 ### 💻 MERN Stack Developer | Frontend Developer | Data Analytics Enthusiast
